@@ -1,3 +1,3 @@
-### Wheather-app
+### Wheather-app with nodeJS
 
 ![](app.png)
